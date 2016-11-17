@@ -1,0 +1,16 @@
+{
+  "name": "dateformats",
+  "version": "1.0.2",
+  "description": "Converts between datetime formats from DotNet, moment.js, jQueryUI datepicker, timepicker.",
+  "main": "date-formats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "format"
+  ],
+  "author": "Lu Chao",
+  "license": "MIT"
+}
